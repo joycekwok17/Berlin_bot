@@ -1,4 +1,9 @@
 # THIS IS AN Modified version(Linux) of below repo
+
+* in this version, it can play sound on linux, run `python3 berlin_bot1.py`
+* you can run parallel processes at the same time to increase your success rate, run `python3 berlin_bot_parallel.py`
+* set timeout for each webdriver element via `python3 berlin_bot_timeout.py`
+
 # Berlin Ausländerbehörde Termin Bot
 
 A [Selenium](https://www.selenium.dev/) bot for obtaining an appointment at the [Landesamt für Einwanderung](https://otv.verwalt-berlin.de/ams/TerminBuchen) aka Ausänderbehörde in Berlin.
